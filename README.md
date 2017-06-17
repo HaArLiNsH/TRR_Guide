@@ -36,6 +36,7 @@ Something usefull to know about the size and the weight of the files :
 - 4096x4096 .dds DXT5 = 21,3Mb
 
 So my advice is : use compressed .png while you work on your texture, then when all is ready to be release online, save them in .png non compressed and convert them to .dds 
+Also, don't use compressed .png for your NRM. Save them uncompressed and use this full size texture to make the NRM, if you use the online tool, it will compress the result anyway, so don't make a double compression. 
 
 !!! BEWARE !!!! 
 
