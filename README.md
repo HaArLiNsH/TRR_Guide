@@ -25,16 +25,16 @@ As you can see, the textures are saved in .png, this is clearly not the format y
 
 Something usefull to know about the size and the weight of the files : 
 
- 4096x4096 .png no compressed = 64Mb
- 4096x4096 .png compressed = 200Ko - 1Mb   (from a simple texture like the guide)
- 4096x4096 .png compressed = 20Mb - 30Mb (from a full detail texture)
+ 4096x4096 .png no compressed = 64Mb,
+ 4096x4096 .png compressed = 200Ko - 1Mb   (from a simple texture like the guide),
+ 4096x4096 .png compressed = 20Mb - 30Mb (from a full detail texture),
  
- 4096x4096 .dds DXT1 = 10,6Mb  
+ 4096x4096 .dds DXT1 = 10,6Mb,  
  
  The same goes for the NormalMap (NRM) :
  
-4096x4096 .png NormalMap compressed = 500-600Ko 
-4096x4096 .dds DXT5 = 21,3Mb 
+4096x4096 .png NormalMap compressed = 500-600Ko,
+4096x4096 .dds DXT5 = 21,3Mb, 
 
 So my advice is : use compressed .png while you work on your texture, then when all is ready to be release online, save them in .png non compressed and convert them to .dds 
 
