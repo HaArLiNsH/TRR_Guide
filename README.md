@@ -47,11 +47,11 @@ The jetpack and visor are not meaned to be used to all the levels, just use them
 Of course, if you make your textures in 1024x1024 (or any size you want), you wont have the weight problem (but you will have old and tiny textures :p )
 
 Usefull tools : 
-[NormalMap-Online](http://cpetry.github.io/NormalMap-Online/)
+- [NormalMap-Online](http://cpetry.github.io/NormalMap-Online/)
 Online tool for generating Normal, Displacement, Ambient Occlusion and Specular maps 
 
 for windows :
-[KSP to DDS texture converter] (http://forum.kerbalspaceprogram.com/index.php?/topic/88972-win-ksp-to-dds-texture-converter/ )
+- [KSP to DDS texture converter](http://forum.kerbalspaceprogram.com/index.php?/topic/88972-win-ksp-to-dds-texture-converter/ )
 A great and simple tool to convert your .png to .dds 
 Use dxt1 for normal textures without alpha and dxt5 for NRM.  
 
