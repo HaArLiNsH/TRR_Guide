@@ -50,10 +50,9 @@ Usefull tools :
 - [NormalMap-Online](http://cpetry.github.io/NormalMap-Online/)
 Online tool for generating Normal, Displacement, Ambient Occlusion and Specular maps 
 
-for windows :
 - [KSP to DDS texture converter](http://forum.kerbalspaceprogram.com/index.php?/topic/88972-win-ksp-to-dds-texture-converter/ )
 A great and simple tool to convert your .png to .dds 
-Use dxt1 for normal textures without alpha and dxt5 for NRM.  
+Use dxt1 for normal textures without alpha and dxt5 for NRM.(windows only)
 
 And of course : 
 [Mod Development Links Compilation](http://forum.kerbalspaceprogram.com/index.php?/topic/85372-mod-development-links-compilation-some-links-do-not-work-formatting-broken/)
