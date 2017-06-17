@@ -20,8 +20,9 @@ For example put the folder "TRR_SuitGuide" in the "Suits" folder of TextureRepla
 
 The folder MMcustomTexture is there to show you how to use the new MM.cfg compatibility system for your own mod. 
 
-As you can see, the textures are saved in .png, this is clearly not the format you need to use for your finished textures. BUT, as we use big 4k texures and flat color for the guides, the compressed png weight less than a .dds. It takes more time to load but its a lot easier to share and you don't need a special plugin to be able to see them in your explorer. 
+The EVAvisor.png is clear at 60% while the others are opaque. change them as you need. 
 
+As you can see, the textures are saved in .png, this is clearly not the format you need to use for your finished textures. BUT, as we use big 4k texures and flat color for the guides, the compressed png weight less than a .dds. It takes more time to load but its a lot easier to share and you don't need a special plugin to be able to see them in your explorer. 
 
 Something usefull to know about the size and the weight of the files : 
 
