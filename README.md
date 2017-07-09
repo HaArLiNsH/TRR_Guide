@@ -16,17 +16,6 @@ Instructions
 
 More instructions soon but here is the new name convention that you need to use in your suit pack to use all the new features from TRR : 
 
-All these files goes from level 0 to level 5 as this : 
-
-	Helmet_EvaGround_Badass_Female0
-	Helmet_EvaGround_Badass_Female1
-	Helmet_EvaGround_Badass_Female2
-	Helmet_EvaGround_Badass_Female3
-	Helmet_EvaGround_Badass_Female4
-	Helmet_EvaGround_Badass_Female5
-
-'''
-
 // -----------------------------------------------------
 // Helmet
 // -----------------------------------------------------
@@ -40,198 +29,205 @@ All these files goes from level 0 to level 5 as this :
 	Helmet_EvaGround_Standard_Male0
 	Helmet_EvaGround_Standard_MaleNRM0
 	Helmet_EvaGround_VetBad_Female0
-Helmet_EvaGround_VetBad_FemaleNRM0
-Helmet_EvaGround_VetBad_Male0
-Helmet_EvaGround_VetBad_MaleNRM0
-Helmet_EvaGround_Veteran_Female0
-Helmet_EvaGround_Veteran_FemaleNRM0
-Helmet_EvaGround_Veteran_Male0
-Helmet_EvaGround_Veteran_MaleNRM0
+	Helmet_EvaGround_VetBad_FemaleNRM0
+	Helmet_EvaGround_VetBad_Male0
+	Helmet_EvaGround_VetBad_MaleNRM0
+	Helmet_EvaGround_Veteran_Female0
+	Helmet_EvaGround_Veteran_FemaleNRM0
+	Helmet_EvaGround_Veteran_Male0
+	Helmet_EvaGround_Veteran_MaleNRM0
 
-Helmet_EvaSpace_Badass_Female0
-Helmet_EvaSpace_Badass_FemaleNRM0
-Helmet_EvaSpace_Badass_Male0
-Helmet_EvaSpace_Badass_MaleNRM0
-Helmet_EvaSpace_Standard_Female0
-Helmet_EvaSpace_Standard_FemaleNRM0
-Helmet_EvaSpace_Standard_Male0
-Helmet_EvaSpace_Standard_MaleNRM0
-Helmet_EvaSpace_VetBad_Female0
-Helmet_EvaSpace_VetBad_FemaleNRM0
-Helmet_EvaSpace_VetBad_Male0
-Helmet_EvaSpace_VetBad_MaleNRM0
-Helmet_EvaSpace_Veteran_Female0
-Helmet_EvaSpace_Veteran_FemaleNRM0
-Helmet_EvaSpace_Veteran_Male0
-Helmet_EvaSpace_Veteran_MaleNRM0
-
-Helmet_Iva_Badass_Female0
-Helmet_Iva_Badass_FemaleNRM0
-Helmet_Iva_Badass_Male0
-Helmet_Iva_Badass_MaleNRM0
-Helmet_Iva_Standard_Female0
-Helmet_Iva_Standard_FemaleNRM0
-Helmet_Iva_Standard_Male0
-Helmet_Iva_Standard_MaleNRM0
-Helmet_Iva_VetBad_Female0
-Helmet_Iva_VetBad_FemaleNRM0
-Helmet_Iva_VetBad_Male0
-Helmet_Iva_VetBad_MaleNRM0
-Helmet_Iva_Veteran_Female0
-Helmet_Iva_Veteran_FemaleNRM0
-Helmet_Iva_Veteran_Male0
-Helmet_Iva_Veteran_MaleNRM0
+	Helmet_EvaSpace_Badass_Female0
+	Helmet_EvaSpace_Badass_FemaleNRM0
+	Helmet_EvaSpace_Badass_Male0
+	Helmet_EvaSpace_Badass_MaleNRM0
+	Helmet_EvaSpace_Standard_Female0
+	Helmet_EvaSpace_Standard_FemaleNRM0
+	Helmet_EvaSpace_Standard_Male0
+	Helmet_EvaSpace_Standard_MaleNRM0
+	Helmet_EvaSpace_VetBad_Female0
+	Helmet_EvaSpace_VetBad_FemaleNRM0
+	Helmet_EvaSpace_VetBad_Male0
+	Helmet_EvaSpace_VetBad_MaleNRM0
+	Helmet_EvaSpace_Veteran_Female0
+	Helmet_EvaSpace_Veteran_FemaleNRM0
+	Helmet_EvaSpace_Veteran_Male0
+	Helmet_EvaSpace_Veteran_MaleNRM0
+	
+	Helmet_Iva_Badass_Female0
+	Helmet_Iva_Badass_FemaleNRM0
+	Helmet_Iva_Badass_Male0
+	Helmet_Iva_Badass_MaleNRM0
+	Helmet_Iva_Standard_Female0
+	Helmet_Iva_Standard_FemaleNRM0
+	Helmet_Iva_Standard_Male0
+	Helmet_Iva_Standard_MaleNRM0
+	Helmet_Iva_VetBad_Female0
+	Helmet_Iva_VetBad_FemaleNRM0
+	Helmet_Iva_VetBad_Male0
+	Helmet_Iva_VetBad_MaleNRM0
+	Helmet_Iva_Veteran_Female0
+	Helmet_Iva_Veteran_FemaleNRM0
+	Helmet_Iva_Veteran_Male0
+	Helmet_Iva_Veteran_MaleNRM0
 
 // -----------------------------------------------------
 // Jetpack
 // -----------------------------------------------------
 
-Jetpack_EvaGround_Badass_Female0
-Jetpack_EvaGround_Badass_FemaleNRM0
-Jetpack_EvaGround_Badass_Male0
-Jetpack_EvaGround_Badass_MaleNRM0
-Jetpack_EvaGround_Standard_Female0
-Jetpack_EvaGround_Standard_FemaleNRM0
-Jetpack_EvaGround_Standard_Male0
-Jetpack_EvaGround_Standard_MaleNRM0
-Jetpack_EvaGround_VetBad_Female0
-Jetpack_EvaGround_VetBad_FemaleNRM0
-Jetpack_EvaGround_VetBad_Male0
-Jetpack_EvaGround_VetBad_MaleNRM0
-Jetpack_EvaGround_Veteran_Female0
-Jetpack_EvaGround_Veteran_FemaleNRM0
-Jetpack_EvaGround_Veteran_Male0
-Jetpack_EvaGround_Veteran_MaleNRM0
+	Jetpack_EvaGround_Badass_Female0
+	Jetpack_EvaGround_Badass_FemaleNRM0
+	Jetpack_EvaGround_Badass_Male0
+	Jetpack_EvaGround_Badass_MaleNRM0
+	Jetpack_EvaGround_Standard_Female0
+	Jetpack_EvaGround_Standard_FemaleNRM0
+	Jetpack_EvaGround_Standard_Male0
+	Jetpack_EvaGround_Standard_MaleNRM0
+	Jetpack_EvaGround_VetBad_Female0
+	Jetpack_EvaGround_VetBad_FemaleNRM0
+	Jetpack_EvaGround_VetBad_Male0
+	Jetpack_EvaGround_VetBad_MaleNRM0
+	Jetpack_EvaGround_Veteran_Female0
+	Jetpack_EvaGround_Veteran_FemaleNRM0
+	Jetpack_EvaGround_Veteran_Male0
+	Jetpack_EvaGround_Veteran_MaleNRM0
 
-Jetpack_EvaSpace_Badass_Female0
-Jetpack_EvaSpace_Badass_FemaleNRM0
-Jetpack_EvaSpace_Badass_Male0
-Jetpack_EvaSpace_Badass_MaleNRM0
-Jetpack_EvaSpace_Standard_Female0
-Jetpack_EvaSpace_Standard_FemaleNRM0
-Jetpack_EvaSpace_Standard_Male0
-Jetpack_EvaSpace_Standard_MaleNRM0
-Jetpack_EvaSpace_VetBad_Female0
-Jetpack_EvaSpace_VetBad_FemaleNRM0
-Jetpack_EvaSpace_VetBad_Male0
-Jetpack_EvaSpace_VetBad_MaleNRM0
-Jetpack_EvaSpace_Veteran_Female0
-Jetpack_EvaSpace_Veteran_FemaleNRM0
-Jetpack_EvaSpace_Veteran_Male0
-Jetpack_EvaSpace_Veteran_MaleNRM0
+	Jetpack_EvaSpace_Badass_Female0
+	Jetpack_EvaSpace_Badass_FemaleNRM0
+	Jetpack_EvaSpace_Badass_Male0
+	Jetpack_EvaSpace_Badass_MaleNRM0
+	Jetpack_EvaSpace_Standard_Female0
+	Jetpack_EvaSpace_Standard_FemaleNRM0
+	Jetpack_EvaSpace_Standard_Male0
+	Jetpack_EvaSpace_Standard_MaleNRM0
+	Jetpack_EvaSpace_VetBad_Female0
+	Jetpack_EvaSpace_VetBad_FemaleNRM0
+	Jetpack_EvaSpace_VetBad_Male0
+	Jetpack_EvaSpace_VetBad_MaleNRM0
+	Jetpack_EvaSpace_Veteran_Female0
+	Jetpack_EvaSpace_Veteran_FemaleNRM0
+	Jetpack_EvaSpace_Veteran_Male0
+	Jetpack_EvaSpace_Veteran_MaleNRM0
 
 // -----------------------------------------------------
 // Suit
 // -----------------------------------------------------
 
-Suit_EvaGround_Badass_Female0
-Suit_EvaGround_Badass_FemaleNRM0
-Suit_EvaGround_Badass_Male0
-Suit_EvaGround_Badass_MaleNRM0
-Suit_EvaGround_Standard_Female0
-Suit_EvaGround_Standard_FemaleNRM0
-Suit_EvaGround_Standard_Male0
-Suit_EvaGround_Standard_MaleNRM0
-Suit_EvaGround_VetBad_Female0
-Suit_EvaGround_VetBad_FemaleNRM0
-Suit_EvaGround_VetBad_Male0
-Suit_EvaGround_VetBad_MaleNRM0
-Suit_EvaGround_Veteran_Female0
-Suit_EvaGround_Veteran_FemaleNRM0
-Suit_EvaGround_Veteran_Male0
-Suit_EvaGround_Veteran_MaleNRM0
+	Suit_EvaGround_Badass_Female0
+	Suit_EvaGround_Badass_FemaleNRM0
+	Suit_EvaGround_Badass_Male0
+	Suit_EvaGround_Badass_MaleNRM0
+	Suit_EvaGround_Standard_Female0
+	Suit_EvaGround_Standard_FemaleNRM0
+	Suit_EvaGround_Standard_Male0
+	Suit_EvaGround_Standard_MaleNRM0
+	Suit_EvaGround_VetBad_Female0
+	Suit_EvaGround_VetBad_FemaleNRM0
+	Suit_EvaGround_VetBad_Male0
+	Suit_EvaGround_VetBad_MaleNRM0
+	Suit_EvaGround_Veteran_Female0
+	Suit_EvaGround_Veteran_FemaleNRM0
+	Suit_EvaGround_Veteran_Male0
+	Suit_EvaGround_Veteran_MaleNRM0
 
-Suit_EvaSpace_Badass_Female0
-Suit_EvaSpace_Badass_FemaleNRM0
-Suit_EvaSpace_Badass_Male0
-Suit_EvaSpace_Badass_MaleNRM0
-Suit_EvaSpace_Standard_Female0
-Suit_EvaSpace_Standard_FemaleNRM0
-Suit_EvaSpace_Standard_Male0
-Suit_EvaSpace_Standard_MaleNRM0
-Suit_EvaSpace_VetBad_Female0
-Suit_EvaSpace_VetBad_FemaleNRM0
-Suit_EvaSpace_VetBad_Male0
-Suit_EvaSpace_VetBad_MaleNRM0
-Suit_EvaSpace_Veteran_Female0
-Suit_EvaSpace_Veteran_FemaleNRM0
-Suit_EvaSpace_Veteran_Male0
-Suit_EvaSpace_Veteran_MaleNRM0
+	Suit_EvaSpace_Badass_Female0
+	Suit_EvaSpace_Badass_FemaleNRM0
+	Suit_EvaSpace_Badass_Male0
+	Suit_EvaSpace_Badass_MaleNRM0
+	Suit_EvaSpace_Standard_Female0
+	Suit_EvaSpace_Standard_FemaleNRM0
+	Suit_EvaSpace_Standard_Male0
+	Suit_EvaSpace_Standard_MaleNRM0
+	Suit_EvaSpace_VetBad_Female0
+	Suit_EvaSpace_VetBad_FemaleNRM0
+	Suit_EvaSpace_VetBad_Male0
+	Suit_EvaSpace_VetBad_MaleNRM0
+	Suit_EvaSpace_Veteran_Female0
+	Suit_EvaSpace_Veteran_FemaleNRM0
+	Suit_EvaSpace_Veteran_Male0
+	Suit_EvaSpace_Veteran_MaleNRM0
 
-Suit_Iva_Badass_Female0
-Suit_Iva_Badass_FemaleNRM0
-Suit_Iva_Badass_Male0
-Suit_Iva_Badass_MaleNRM0
-Suit_Iva_Standard_Female0
-Suit_Iva_Standard_FemaleNRM0
-Suit_Iva_Standard_Male0
-Suit_Iva_Standard_MaleNRM0
-Suit_Iva_VetBad_Female0
-Suit_Iva_VetBad_FemaleNRM0
-Suit_Iva_VetBad_Male0
-Suit_Iva_VetBad_MaleNRM0
-Suit_Iva_Veteran_Female0
-Suit_Iva_Veteran_FemaleNRM0
-Suit_Iva_Veteran_Male0
-Suit_Iva_Veteran_MaleNRM0
+	Suit_Iva_Badass_Female0
+	Suit_Iva_Badass_FemaleNRM0
+	Suit_Iva_Badass_Male0
+	Suit_Iva_Badass_MaleNRM0
+	Suit_Iva_Standard_Female0
+	Suit_Iva_Standard_FemaleNRM0
+	Suit_Iva_Standard_Male0
+	Suit_Iva_Standard_MaleNRM0
+	Suit_Iva_VetBad_Female0
+	Suit_Iva_VetBad_FemaleNRM0
+	Suit_Iva_VetBad_Male0
+	Suit_Iva_VetBad_MaleNRM0
+	Suit_Iva_Veteran_Female0
+	Suit_Iva_Veteran_FemaleNRM0
+	Suit_Iva_Veteran_Male0
+	Suit_Iva_Veteran_MaleNRM0
 
 // -----------------------------------------------------
 // Visor
 // -----------------------------------------------------
 
-Visor_EvaGround_Badass_Female0
-Visor_EvaGround_Badass_FemaleNRM0
-Visor_EvaGround_Badass_Male0
-Visor_EvaGround_Badass_MaleNRM0
-Visor_EvaGround_Standard_Female0
-Visor_EvaGround_Standard_FemaleNRM0
-Visor_EvaGround_Standard_Male0
-Visor_EvaGround_Standard_MaleNRM0
-Visor_EvaGround_VetBad_Female0
-Visor_EvaGround_VetBad_FemaleNRM0
-Visor_EvaGround_VetBad_Male0
-Visor_EvaGround_VetBad_MaleNRM0
-Visor_EvaGround_Veteran_Female0
-Visor_EvaGround_Veteran_FemaleNRM0
-Visor_EvaGround_Veteran_Male0
-Visor_EvaGround_Veteran_MaleNRM0
+	Visor_EvaGround_Badass_Female0
+	Visor_EvaGround_Badass_FemaleNRM0
+	Visor_EvaGround_Badass_Male0
+	Visor_EvaGround_Badass_MaleNRM0
+	Visor_EvaGround_Standard_Female0
+	Visor_EvaGround_Standard_FemaleNRM0
+	Visor_EvaGround_Standard_Male0
+	Visor_EvaGround_Standard_MaleNRM0
+	Visor_EvaGround_VetBad_Female0
+	Visor_EvaGround_VetBad_FemaleNRM0
+	Visor_EvaGround_VetBad_Male0
+	Visor_EvaGround_VetBad_MaleNRM0
+	Visor_EvaGround_Veteran_Female0
+	Visor_EvaGround_Veteran_FemaleNRM0
+	Visor_EvaGround_Veteran_Male0
+	Visor_EvaGround_Veteran_MaleNRM0
 
-Visor_EvaSpace_Badass_Female0
-Visor_EvaSpace_Badass_FemaleNRM0
-Visor_EvaSpace_Badass_Male0
-Visor_EvaSpace_Badass_MaleNRM0
-Visor_EvaSpace_Standard_Female0
-Visor_EvaSpace_Standard_FemaleNRM0
-Visor_EvaSpace_Standard_Male0
-Visor_EvaSpace_Standard_MaleNRM0
-Visor_EvaSpace_VetBad_Female0
-Visor_EvaSpace_VetBad_FemaleNRM0
-Visor_EvaSpace_VetBad_Male0
-Visor_EvaSpace_VetBad_MaleNRM0
-Visor_EvaSpace_Veteran_Female0
-Visor_EvaSpace_Veteran_FemaleNRM0
-Visor_EvaSpace_Veteran_Male0
-Visor_EvaSpace_Veteran_MaleNRM0
+	Visor_EvaSpace_Badass_Female0
+	Visor_EvaSpace_Badass_FemaleNRM0
+	Visor_EvaSpace_Badass_Male0
+	Visor_EvaSpace_Badass_MaleNRM0
+	Visor_EvaSpace_Standard_Female0
+	Visor_EvaSpace_Standard_FemaleNRM0
+	Visor_EvaSpace_Standard_Male0
+	Visor_EvaSpace_Standard_MaleNRM0
+	Visor_EvaSpace_VetBad_Female0
+	Visor_EvaSpace_VetBad_FemaleNRM0
+	Visor_EvaSpace_VetBad_Male0
+	Visor_EvaSpace_VetBad_MaleNRM0
+	Visor_EvaSpace_Veteran_Female0
+	Visor_EvaSpace_Veteran_FemaleNRM0
+	Visor_EvaSpace_Veteran_Male0
+	Visor_EvaSpace_Veteran_MaleNRM0
 
-Visor_Iva_Badass_Female0
-Visor_Iva_Badass_FemaleNRM0
-Visor_Iva_Badass_Male0
-Visor_Iva_Badass_MaleNRM0
-Visor_Iva_Standard_Female0
-Visor_Iva_Standard_FemaleNRM0
-Visor_Iva_Standard_Male0
-Visor_Iva_Standard_MaleNRM0
-Visor_Iva_VetBad_Female0
-Visor_Iva_VetBad_FemaleNRM0
-Visor_Iva_VetBad_male0
-Visor_Iva_VetBad_MaleNRM0
-Visor_Iva_Veteran_Female0
-Visor_Iva_Veteran_FemaleNRM0
-Visor_Iva_Veteran_Male0
-Visor_Iva_Veteran_MaleNRM0
+	Visor_Iva_Badass_Female0
+	Visor_Iva_Badass_FemaleNRM0
+	Visor_Iva_Badass_Male0
+	Visor_Iva_Badass_MaleNRM0
+	Visor_Iva_Standard_Female0
+	Visor_Iva_Standard_FemaleNRM0
+	Visor_Iva_Standard_Male0
+	Visor_Iva_Standard_MaleNRM0
+	Visor_Iva_VetBad_Female0
+	Visor_Iva_VetBad_FemaleNRM0
+	Visor_Iva_VetBad_male0
+	Visor_Iva_VetBad_MaleNRM0
+	Visor_Iva_Veteran_Female0
+	Visor_Iva_Veteran_FemaleNRM0
+	Visor_Iva_Veteran_Male0
+	Visor_Iva_Veteran_MaleNRM0
 
-'''
 
+All these files goes from level 0 to level 5 as this : 
+
+	Helmet_EvaGround_Badass_Female0
+	Helmet_EvaGround_Badass_Female1
+	Helmet_EvaGround_Badass_Female2
+	Helmet_EvaGround_Badass_Female3
+	Helmet_EvaGround_Badass_Female4
+	Helmet_EvaGround_Badass_Female5
 
 Doing HD texture can quickly goes crazy in term of memory weight and you need to make compromise.
 My advice for the sizes of your HD texture set is to use differents sizes for the elements (this is the TRR_Guide MIXED suit set)
