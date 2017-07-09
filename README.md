@@ -336,7 +336,7 @@ A great and simple tool to convert your .png to .dds
 Use dxt1 for normal textures without alpha and dxt5 for NRM.(windows only)
 (the next one is even better)
 
--[DDS converter](https://vvvv.org/contribution/dds-converter)
+- [DDS converter](https://vvvv.org/contribution/dds-converter)
 A really great converter that Convert JPG,TGA,PNG to DDS using NVIDIA Texture Tools 2.0 with CUDA Acceleration.
 This is the batch converter I used to make to TRR_Guide suit set 
  
