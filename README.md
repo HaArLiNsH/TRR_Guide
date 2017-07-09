@@ -18,12 +18,12 @@ More instructions soon but here is the new name convention that you need to use 
 
 All these files goes from level 0 to level 5 as this : 
 
-Helmet_EvaGround_Badass_Female0
-Helmet_EvaGround_Badass_Female1
-Helmet_EvaGround_Badass_Female2
-Helmet_EvaGround_Badass_Female3
-Helmet_EvaGround_Badass_Female4
-Helmet_EvaGround_Badass_Female5
+	Helmet_EvaGround_Badass_Female0
+	Helmet_EvaGround_Badass_Female1
+	Helmet_EvaGround_Badass_Female2
+	Helmet_EvaGround_Badass_Female3
+	Helmet_EvaGround_Badass_Female4
+	Helmet_EvaGround_Badass_Female5
 
 '''
 
@@ -31,15 +31,15 @@ Helmet_EvaGround_Badass_Female5
 // Helmet
 // -----------------------------------------------------
 
-Helmet_EvaGround_Badass_Female0
-Helmet_EvaGround_Badass_FemaleNRM0
-Helmet_EvaGround_Badass_Male0
-Helmet_EvaGround_Badass_MaleNRM0
-Helmet_EvaGround_Standard_Female0
-Helmet_EvaGround_Standard_FemaleNRM0
-Helmet_EvaGround_Standard_Male0
-Helmet_EvaGround_Standard_MaleNRM0
-Helmet_EvaGround_VetBad_Female0
+	Helmet_EvaGround_Badass_Female0
+	Helmet_EvaGround_Badass_FemaleNRM0
+	Helmet_EvaGround_Badass_Male0
+	Helmet_EvaGround_Badass_MaleNRM0
+	Helmet_EvaGround_Standard_Female0
+	Helmet_EvaGround_Standard_FemaleNRM0
+	Helmet_EvaGround_Standard_Male0
+	Helmet_EvaGround_Standard_MaleNRM0
+	Helmet_EvaGround_VetBad_Female0
 Helmet_EvaGround_VetBad_FemaleNRM0
 Helmet_EvaGround_VetBad_Male0
 Helmet_EvaGround_VetBad_MaleNRM0
