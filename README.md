@@ -14,46 +14,273 @@ And expect lots of changes here as TRR continue to grow :)
 Instructions
 ------------
 
-Put the differents files in the rights folders and you are ready.
+More instructions soon but here is the new name convention that you need to use in your suit pack to use all the new features from TRR : 
 
-For example put the folder "TRR_SuitGuide" in the "Suits" folder of TextureReplacerReplaced if you want to see all the different textures you can make to replace suits for your loved Kerbals
+All these files goes from level 0 to level 5 as this : 
 
-The folder MMcustomTexture is there to show you how to use the new MM.cfg compatibility system for your own mod. 
+Helmet_EvaGround_Badass_Female0
+Helmet_EvaGround_Badass_Female1
+Helmet_EvaGround_Badass_Female2
+Helmet_EvaGround_Badass_Female3
+Helmet_EvaGround_Badass_Female4
+Helmet_EvaGround_Badass_Female5
 
-The EVAvisor.png is clear at 60% while the others are opaque. change them as you need. 
+'''
 
-As you can see, the textures are saved in .png, this is clearly not the format you need to use for your finished textures. BUT, as we use big 4k texures and flat color for the guides, the compressed png weight less than a .dds. It takes more time to load but its a lot easier to share and you don't need a special plugin to be able to see them in your explorer. 
+// -----------------------------------------------------
+// Helmet
+// -----------------------------------------------------
 
-Something usefull to know about the size and the weight of the files : 
+Helmet_EvaGround_Badass_Female0
+Helmet_EvaGround_Badass_FemaleNRM0
+Helmet_EvaGround_Badass_Male0
+Helmet_EvaGround_Badass_MaleNRM0
+Helmet_EvaGround_Standard_Female0
+Helmet_EvaGround_Standard_FemaleNRM0
+Helmet_EvaGround_Standard_Male0
+Helmet_EvaGround_Standard_MaleNRM0
+Helmet_EvaGround_VetBad_Female0
+Helmet_EvaGround_VetBad_FemaleNRM0
+Helmet_EvaGround_VetBad_Male0
+Helmet_EvaGround_VetBad_MaleNRM0
+Helmet_EvaGround_Veteran_Female0
+Helmet_EvaGround_Veteran_FemaleNRM0
+Helmet_EvaGround_Veteran_Male0
+Helmet_EvaGround_Veteran_MaleNRM0
 
- - 4096x4096 .png no compressed = 64Mb 
- - 4096x4096 .png compressed = 200Ko - 1Mb   (from a simple texture like the guide) 
- - 4096x4096 .png compressed = 20Mb - 30Mb (from a full detail texture) 
- - 4096x4096 .dds DXT1 = 10,6Mb
+Helmet_EvaSpace_Badass_Female0
+Helmet_EvaSpace_Badass_FemaleNRM0
+Helmet_EvaSpace_Badass_Male0
+Helmet_EvaSpace_Badass_MaleNRM0
+Helmet_EvaSpace_Standard_Female0
+Helmet_EvaSpace_Standard_FemaleNRM0
+Helmet_EvaSpace_Standard_Male0
+Helmet_EvaSpace_Standard_MaleNRM0
+Helmet_EvaSpace_VetBad_Female0
+Helmet_EvaSpace_VetBad_FemaleNRM0
+Helmet_EvaSpace_VetBad_Male0
+Helmet_EvaSpace_VetBad_MaleNRM0
+Helmet_EvaSpace_Veteran_Female0
+Helmet_EvaSpace_Veteran_FemaleNRM0
+Helmet_EvaSpace_Veteran_Male0
+Helmet_EvaSpace_Veteran_MaleNRM0
 
- The same goes for the NormalMap (NRM) :
- 
-- 4096x4096 .png NormalMap compressed = 500-600Ko
-- 4096x4096 .dds DXT5 = 21,3Mb
+Helmet_Iva_Badass_Female0
+Helmet_Iva_Badass_FemaleNRM0
+Helmet_Iva_Badass_Male0
+Helmet_Iva_Badass_MaleNRM0
+Helmet_Iva_Standard_Female0
+Helmet_Iva_Standard_FemaleNRM0
+Helmet_Iva_Standard_Male0
+Helmet_Iva_Standard_MaleNRM0
+Helmet_Iva_VetBad_Female0
+Helmet_Iva_VetBad_FemaleNRM0
+Helmet_Iva_VetBad_Male0
+Helmet_Iva_VetBad_MaleNRM0
+Helmet_Iva_Veteran_Female0
+Helmet_Iva_Veteran_FemaleNRM0
+Helmet_Iva_Veteran_Male0
+Helmet_Iva_Veteran_MaleNRM0
 
-So my advice is : use compressed .png while you work on your texture, then when all is ready to be release online, save them in .png non compressed and convert them to .dds 
-Also, don't use compressed .png for your NRM. Save them uncompressed and use this full size texture to make the NRM, if you use the online tool, it will compress the result anyway, so don't make a double compression. 
+// -----------------------------------------------------
+// Jetpack
+// -----------------------------------------------------
 
-!!! BEWARE !!!! 
+Jetpack_EvaGround_Badass_Female0
+Jetpack_EvaGround_Badass_FemaleNRM0
+Jetpack_EvaGround_Badass_Male0
+Jetpack_EvaGround_Badass_MaleNRM0
+Jetpack_EvaGround_Standard_Female0
+Jetpack_EvaGround_Standard_FemaleNRM0
+Jetpack_EvaGround_Standard_Male0
+Jetpack_EvaGround_Standard_MaleNRM0
+Jetpack_EvaGround_VetBad_Female0
+Jetpack_EvaGround_VetBad_FemaleNRM0
+Jetpack_EvaGround_VetBad_Male0
+Jetpack_EvaGround_VetBad_MaleNRM0
+Jetpack_EvaGround_Veteran_Female0
+Jetpack_EvaGround_Veteran_FemaleNRM0
+Jetpack_EvaGround_Veteran_Male0
+Jetpack_EvaGround_Veteran_MaleNRM0
 
-I don't think that making a full suits set composed of the 55 textures is a good idea if you plan to make a suits for each class of MKS.
-A single full set can weight up to 650Mb, so if you plan to make 14 of them ...   :) 
-The jetpack and visor are not meaned to be used to all the levels, just use them if you want a difference for your level 3 and 5. 
+Jetpack_EvaSpace_Badass_Female0
+Jetpack_EvaSpace_Badass_FemaleNRM0
+Jetpack_EvaSpace_Badass_Male0
+Jetpack_EvaSpace_Badass_MaleNRM0
+Jetpack_EvaSpace_Standard_Female0
+Jetpack_EvaSpace_Standard_FemaleNRM0
+Jetpack_EvaSpace_Standard_Male0
+Jetpack_EvaSpace_Standard_MaleNRM0
+Jetpack_EvaSpace_VetBad_Female0
+Jetpack_EvaSpace_VetBad_FemaleNRM0
+Jetpack_EvaSpace_VetBad_Male0
+Jetpack_EvaSpace_VetBad_MaleNRM0
+Jetpack_EvaSpace_Veteran_Female0
+Jetpack_EvaSpace_Veteran_FemaleNRM0
+Jetpack_EvaSpace_Veteran_Male0
+Jetpack_EvaSpace_Veteran_MaleNRM0
 
-Of course, if you make your textures in 1024x1024 (or any size you want), you wont have the weight problem (but you will have old and tiny textures :p )
+// -----------------------------------------------------
+// Suit
+// -----------------------------------------------------
+
+Suit_EvaGround_Badass_Female0
+Suit_EvaGround_Badass_FemaleNRM0
+Suit_EvaGround_Badass_Male0
+Suit_EvaGround_Badass_MaleNRM0
+Suit_EvaGround_Standard_Female0
+Suit_EvaGround_Standard_FemaleNRM0
+Suit_EvaGround_Standard_Male0
+Suit_EvaGround_Standard_MaleNRM0
+Suit_EvaGround_VetBad_Female0
+Suit_EvaGround_VetBad_FemaleNRM0
+Suit_EvaGround_VetBad_Male0
+Suit_EvaGround_VetBad_MaleNRM0
+Suit_EvaGround_Veteran_Female0
+Suit_EvaGround_Veteran_FemaleNRM0
+Suit_EvaGround_Veteran_Male0
+Suit_EvaGround_Veteran_MaleNRM0
+
+Suit_EvaSpace_Badass_Female0
+Suit_EvaSpace_Badass_FemaleNRM0
+Suit_EvaSpace_Badass_Male0
+Suit_EvaSpace_Badass_MaleNRM0
+Suit_EvaSpace_Standard_Female0
+Suit_EvaSpace_Standard_FemaleNRM0
+Suit_EvaSpace_Standard_Male0
+Suit_EvaSpace_Standard_MaleNRM0
+Suit_EvaSpace_VetBad_Female0
+Suit_EvaSpace_VetBad_FemaleNRM0
+Suit_EvaSpace_VetBad_Male0
+Suit_EvaSpace_VetBad_MaleNRM0
+Suit_EvaSpace_Veteran_Female0
+Suit_EvaSpace_Veteran_FemaleNRM0
+Suit_EvaSpace_Veteran_Male0
+Suit_EvaSpace_Veteran_MaleNRM0
+
+Suit_Iva_Badass_Female0
+Suit_Iva_Badass_FemaleNRM0
+Suit_Iva_Badass_Male0
+Suit_Iva_Badass_MaleNRM0
+Suit_Iva_Standard_Female0
+Suit_Iva_Standard_FemaleNRM0
+Suit_Iva_Standard_Male0
+Suit_Iva_Standard_MaleNRM0
+Suit_Iva_VetBad_Female0
+Suit_Iva_VetBad_FemaleNRM0
+Suit_Iva_VetBad_Male0
+Suit_Iva_VetBad_MaleNRM0
+Suit_Iva_Veteran_Female0
+Suit_Iva_Veteran_FemaleNRM0
+Suit_Iva_Veteran_Male0
+Suit_Iva_Veteran_MaleNRM0
+
+// -----------------------------------------------------
+// Visor
+// -----------------------------------------------------
+
+Visor_EvaGround_Badass_Female0
+Visor_EvaGround_Badass_FemaleNRM0
+Visor_EvaGround_Badass_Male0
+Visor_EvaGround_Badass_MaleNRM0
+Visor_EvaGround_Standard_Female0
+Visor_EvaGround_Standard_FemaleNRM0
+Visor_EvaGround_Standard_Male0
+Visor_EvaGround_Standard_MaleNRM0
+Visor_EvaGround_VetBad_Female0
+Visor_EvaGround_VetBad_FemaleNRM0
+Visor_EvaGround_VetBad_Male0
+Visor_EvaGround_VetBad_MaleNRM0
+Visor_EvaGround_Veteran_Female0
+Visor_EvaGround_Veteran_FemaleNRM0
+Visor_EvaGround_Veteran_Male0
+Visor_EvaGround_Veteran_MaleNRM0
+
+Visor_EvaSpace_Badass_Female0
+Visor_EvaSpace_Badass_FemaleNRM0
+Visor_EvaSpace_Badass_Male0
+Visor_EvaSpace_Badass_MaleNRM0
+Visor_EvaSpace_Standard_Female0
+Visor_EvaSpace_Standard_FemaleNRM0
+Visor_EvaSpace_Standard_Male0
+Visor_EvaSpace_Standard_MaleNRM0
+Visor_EvaSpace_VetBad_Female0
+Visor_EvaSpace_VetBad_FemaleNRM0
+Visor_EvaSpace_VetBad_Male0
+Visor_EvaSpace_VetBad_MaleNRM0
+Visor_EvaSpace_Veteran_Female0
+Visor_EvaSpace_Veteran_FemaleNRM0
+Visor_EvaSpace_Veteran_Male0
+Visor_EvaSpace_Veteran_MaleNRM0
+
+Visor_Iva_Badass_Female0
+Visor_Iva_Badass_FemaleNRM0
+Visor_Iva_Badass_Male0
+Visor_Iva_Badass_MaleNRM0
+Visor_Iva_Standard_Female0
+Visor_Iva_Standard_FemaleNRM0
+Visor_Iva_Standard_Male0
+Visor_Iva_Standard_MaleNRM0
+Visor_Iva_VetBad_Female0
+Visor_Iva_VetBad_FemaleNRM0
+Visor_Iva_VetBad_male0
+Visor_Iva_VetBad_MaleNRM0
+Visor_Iva_Veteran_Female0
+Visor_Iva_Veteran_FemaleNRM0
+Visor_Iva_Veteran_Male0
+Visor_Iva_Veteran_MaleNRM0
+
+'''
+
+
+Doing HD texture can quickly goes crazy in term of memory weight and you need to make compromise.
+My advice for the sizes of your HD texture set is to use differents sizes for the elements (this is the TRR_Guide MIXED suit set)
+
+Helmet : 2048x2048
+Jetpack : 2048x2048
+Suit : 4096x4096
+visor : 1024x1024
+
+
+You can go for bigger but here is some number to help you understand what I mean : 
+
+
+- Full set in 4096x4096 : 18Go
+- Full set in 2048x2048 : 4.5Go
+- Full set in 1024x1024 : 1.12Go
+
+- Full set in mixed sizes : 6.75Go
+
+Off course you will NEVER make a full suit set with the 1056 files :) 
+
+Try to use the same NRM as much as possible! 
+The levelled NRM exist mostly to have the capacity to make a different NRM for the level 5, not for all level. 
+
+
 
 Usefull tools : 
+
 - [NormalMap-Online](http://cpetry.github.io/NormalMap-Online/)
 Online tool for generating Normal, Displacement, Ambient Occlusion and Specular maps 
 
 - [KSP to DDS texture converter](http://forum.kerbalspaceprogram.com/index.php?/topic/88972-win-ksp-to-dds-texture-converter/ )
 A great and simple tool to convert your .png to .dds 
 Use dxt1 for normal textures without alpha and dxt5 for NRM.(windows only)
+(the next one is even better)
+
+-[DDS converter](https://vvvv.org/contribution/dds-converter)
+A really great converter that Convert JPG,TGA,PNG to DDS using NVIDIA Texture Tools 2.0 with CUDA Acceleration.
+This is the batch converter I used to make to TRR_Guide suit set 
+
+instruction for the type of .dds you need to use : 
+
+- Use dxt1 with "Mipmaps" checked for the helmet, jetpack and suit
+- Use dxt5 with "Mipmaps" and "alpha" checked for the visor 
+- Use dxt5NormalMap with "Mipmaps", "Normal" and "toNormalMap" checked for the NRM  (you must provide a normal map, it doesn't make NRM from your base texture)
+
+ 
+- [GIMP 2](https://www.gimp.org/fr/) + [BIMP. Batch Image Manipulation Plugin.](http://registry.gimp.org/node/26259)
+To batch modify your texture file , like the invert you need to do before converting .png to .dds or to batch resize
 
 And of course : 
 [Mod Development Links Compilation](http://forum.kerbalspaceprogram.com/index.php?/topic/85372-mod-development-links-compilation-some-links-do-not-work-formatting-broken/)
