@@ -328,6 +328,16 @@ I used GIMP2 + the BIMP plugin (see the usefull tools part)
 	
 ****************************  Usefull tools :  ****************************
 
+- Photoshop + [NVIDIA Texture Tools for Adobe Photoshop](https://developer.nvidia.com/nvidia-texture-tools-adobe-photoshop)
+Maybe not open source, but still the best program to make images. The addon don't export the normal maps anymore (broken) 
+BUT you still can open .dds files in photoshop and you will also be able to see the image in .dds in your Windows explorer. 
+
+ The file TRR_Guide.psd is the working file I used to make all the textures you can find in this guide.
+
+- [GIMP 2](https://www.gimp.org/fr/) + [BIMP. Batch Image Manipulation Plugin.](http://registry.gimp.org/node/26259)
+To batch modify your texture file , like the invert you need to do before converting .png to .dds or to batch resize
+You can also use it to make your images like photoshop, but I can't help you with this one, I don't use it exept to make operations in batch. 
+
 - [NormalMap-Online](http://cpetry.github.io/NormalMap-Online/)
 Online tool for generating Normal, Displacement, Ambient Occlusion and Specular maps 
 
@@ -340,8 +350,7 @@ Use dxt1 for normal textures without alpha and dxt5 for NRM.(windows only)
 A really great converter that Convert JPG,TGA,PNG to DDS using NVIDIA Texture Tools 2.0 with CUDA Acceleration.
 This is the batch converter I used to make to TRR_Guide suit set 
  
-- [GIMP 2](https://www.gimp.org/fr/) + [BIMP. Batch Image Manipulation Plugin.](http://registry.gimp.org/node/26259)
-To batch modify your texture file , like the invert you need to do before converting .png to .dds or to batch resize
+
 
 And of course : 
 [Mod Development Links Compilation](http://forum.kerbalspaceprogram.com/index.php?/topic/85372-mod-development-links-compilation-some-links-do-not-work-formatting-broken/)
